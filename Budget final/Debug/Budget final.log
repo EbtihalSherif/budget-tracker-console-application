@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Source1.cpp
+g:\budget project\new folder\budget final\budget final\source1.cpp(706): warning C4101: 'i': unreferenced local variable
+g:\budget project\new folder\budget final\budget final\source1.cpp(1137): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+  Budget final.vcxproj -> G:\budget project\New folder\Budget final\Debug\Budget final.exe
